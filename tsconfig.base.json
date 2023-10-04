@@ -23,6 +23,9 @@
       ],
       "@devgen-eureka-two/home": [
         "libs/home/src/index.ts"
+      ],
+      "@devgen-eureka-two/common/styles": [
+        "libs/common/styles/src/index.ts"
       ]
     }
   },
